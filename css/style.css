@@ -1,0 +1,14 @@
+﻿body{
+	background-color:#c8dbd8;
+}
+
+h1 {
+	color:#154d42;
+	font-size:18px;
+}
+.content {
+	width:850px;
+	 margin: auto;
+	  border: 4px double #154d42;
+	  padding: 10px;
+}
